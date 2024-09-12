@@ -11,18 +11,38 @@ If you're interested in discussing potential collaborations or have any question
 ---
 
 💻 **Tech Stack:**
+
+### Development Tools:
 - ☕ Java
+- 🌱 Spring & Spring Boot
 - 🐍 Python
 - 🌐 JavaScript
 - 🤖 C
 - 🗃️ C++
-- 📜 Git
+- 🌐 Django (Web Development)
+- 🗄️ MySQL
+
+### Testing Tools:
 - 🌐 Selenium
 - 🥒 Cucumber
 - 🌐 REST Assured
+- 🧪 TestNG
+- 🛠️ Maven
+- ⚙️ Jenkins
+
+### Cloud & DevOps Tools:
 - 🐳 Docker
+- ☸️ Kubernetes
 - ☁️ AWS
-- 🌐 Django (Web Development)
+
+### Cybersecurity Tools:
+- 🔒 Cryptography (RSA, AES, etc.)
+- 🌐 Nmap
+- 💥 Metasploit
+- 🌬️ Aircrack-ng
+- 🌈 Rainbow Table
+
+---
 
 🌐 **Open to Opportunities:**
 - Remote roles
