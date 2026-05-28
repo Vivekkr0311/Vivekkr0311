@@ -46,8 +46,7 @@ If you're interested in discussing potential collaborations or have any question
 
 🌐 **Open to Opportunities:**
 - Remote roles
-- Fresher roles
-- Seeking a role change
+- Java Developer roles
 
 💻 **Skills Highlights:**
 - Strong programming skills
